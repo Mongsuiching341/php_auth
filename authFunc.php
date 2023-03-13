@@ -1,7 +1,7 @@
 <?php
 
 // save user data 
-define("DB_NAME", "C:\\Users\\HP\\Documents\\php-auth\\user.csv");
+define("DB_NAME", "./user.csv");
 
 
 function saveData($user)
